@@ -1,0 +1,139 @@
+body{
+  color:#40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight:normal;
+  padding-bottom: 10px;
+
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.p{
+  line-height: 2;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+ border-bottom: none;
+ width:4%;
+ margin:100px auto
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.middle-container{
+  margin:100px 0 ;
+
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+
+
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bulb-img{
+  width:25%;
+  float:right;
+   margin-right: 30px;
+}
+.resize{
+  width:10%;
+}
+.pro{
+  text-decoration: underline;
+}
+.intro{
+  width: 500px;
+    margin-left: 412px;
+    margin-right: 40px;
+
+}
+.contact-message{
+  width:428px;
+  margin-left: 428px;
+  margin-bottom: 60px;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 40px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.footer-link{
+  color: #11999E;
+}
+.btn {
+  font-family: 'Montserrat',sans-serif;
+  text-decoration: none;
+  color: #14396A !important;
+  font-size: 14px;
+  border: 2px solid #3866A3;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  background: #11CDD4;
+  background: linear-gradient(to top, #11CDD4, #11999E);
+}
+.btn:hover {
+   text-decoration: none;
+  color: #14396A !important;
+  background: #30E4CB;
+  background: linear-gradient(to top, #30E4CB, #2bc4ad);
+}
+.a{
+  color: #11999E;
+  font-family:'Montserrat',sans-serif;
+
+}
+.ff{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.ff:hover{
+  color: #EAF6F6;
+}
+.copy{
+  color:black;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
